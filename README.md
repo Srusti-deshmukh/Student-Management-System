@@ -139,6 +139,6 @@ This project demonstrates the practical use of arrays in managing structured dat
 
 ## 👩‍💻 Author
 
-**[Srusti U Deshmukh](srustiuddeshmukh@gmail.com)**
+**[Srusti U Deshmukh](https://github.com/Srusti-deshmukh)**
 
 ---
